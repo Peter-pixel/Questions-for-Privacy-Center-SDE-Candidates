@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\peter\Employee Hierarchy\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.deps.json
+C:\Users\USER\Desktop\peter\Employee Hierarchy\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.dll
+C:\Users\USER\Desktop\peter\Employee Hierarchy\EmployeeHierarchy\bin\Debug\net6.0\ref\EmployeeHierarchy.dll
+C:\Users\USER\Desktop\peter\Employee Hierarchy\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.pdb
+C:\Users\USER\Desktop\peter\Employee Hierarchy\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\peter\Employee Hierarchy\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\peter\Employee Hierarchy\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\peter\Employee Hierarchy\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.AssemblyInfo.cs
+C:\Users\USER\Desktop\peter\Employee Hierarchy\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\peter\Employee Hierarchy\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.dll
+C:\Users\USER\Desktop\peter\Employee Hierarchy\EmployeeHierarchy\obj\Debug\net6.0\ref\EmployeeHierarchy.dll
+C:\Users\USER\Desktop\peter\Employee Hierarchy\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.pdb
